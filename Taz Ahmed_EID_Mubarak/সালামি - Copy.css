@@ -1,0 +1,24 @@
+#SAD{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 350px;
+}
+.দুঃখিত{
+  color: tomato;
+  text-align: center;
+  font-size: 35px;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.দুঃখিত1{
+  color: #7158e2;
+  text-align: center;
+  font-size: 25px;
+  font-family: fantasy;
+}
+.END{
+  font-size: 35px;
+  text-align: center;
+  font-family: Courier, monospace;
+  color: #eb2f06;
+}

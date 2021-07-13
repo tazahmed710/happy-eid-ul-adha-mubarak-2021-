@@ -1,0 +1,34 @@
+#Eid_photo_2{
+  width: 600px;
+  height: 350px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.Eid1{
+  text-align: center;
+  color: #ff0000;
+  font-size: 40px;
+  font-family: Bahnschrift Condensed;
+}
+.Eid2{
+  color: #ff0000;
+  font-size: 30px;
+  font-family: Bookman Old Style;
+}
+.Eid3{
+ color: #3c40c6;
+ font-size: 25px;
+ text-align: center;
+}
+#dollar{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 10%;
+}
+.Eid4{
+  color: #e84118;
+  text-align: center;
+  font-size: 50px;
+}
